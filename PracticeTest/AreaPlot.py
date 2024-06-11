@@ -8,7 +8,7 @@ def areaPlotOnCars():
     y2 = cars['disp']
     x = range(32)
     plt.stackplot(x,y1, colors='red', alpha = 0.7)
-    plt.stackplot(x, y2, colors='blue', alpha=.5)
+    plt.stackplot(x, y2, colors='blue', alpha=0.5)
     plt.show()
 
 

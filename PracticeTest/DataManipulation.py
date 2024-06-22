@@ -1,6 +1,6 @@
 import pandas as pd
 
-# cc.iloc[start from row : Ends with row, starts with column : Ends at columns]
+# cc.iloc[start from row : Ends at row, starts with column : Ends at columns]
 
 # view customerID only
 def viewSingleColumn():

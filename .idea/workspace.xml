@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearningDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearningOnCar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatisticsInML/ConfdenceInterval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatisticsInML/StandardDeviation().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatisticsInML/mode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatisticsInML/variance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/MultipleLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/SimpleLinearRegressionModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/boston.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LogicalRegression/Log_ROC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LogicalRegression/LogicalRegressionDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LogicalRegression/diabetes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LeanerRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/LeanerRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/SimpleLinearReg.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/SimpleLinearReg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/SimpleRegression.png" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/SimpleRegression.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/SupervisedLearningDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/SupervisedLearningDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/SupervisedLearningOnCar.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/SupervisedLearningOnCar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/customer_churn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/customer_churn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/LinearRegression/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeTest/DataManipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeTest/DataManipulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +59,16 @@
     "Python.Demo.executor": "Run",
     "Python.DoughnutChart.executor": "Run",
     "Python.Histogram.executor": "Run",
+    "Python.LeanerRegression.executor": "Run",
     "Python.LinePlotVisualizationDataSet.executor": "Run",
+    "Python.LineraReg.executor": "Run",
+    "Python.LogicalRegressionDemo.executor": "Run",
+    "Python.MultipleLinearRegression.executor": "Run",
     "Python.ScatterPlot.executor": "Run",
+    "Python.SimpleLinearReg.executor": "Run",
+    "Python.SimpleLinearRegressionModel.executor": "Run",
     "Python.StandardDeviation().executor": "Run",
+    "Python.SupervisedLearningOnCar.executor": "Run",
     "Python.ViolinPlot.executor": "Run",
     "Python.mode.executor": "Run",
     "Python.pieChart.executor": "Run",
@@ -62,10 +78,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/PythonPracticePrograms",
+    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\SupervisedLearning" />
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LinearRegression" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

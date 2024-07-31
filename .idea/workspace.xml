@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBasics/AreaOfTriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/ArithmeticOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Calendar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/GenerateRandomNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/NumberIsOddOrEven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/NumberStatus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Python_basic_Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/QuadraticEquation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/SwapTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/UnitConversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/AllPrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/ArmstrongNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/HCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/LCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/MultiplicationTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/SumOfNaturalNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasics/Tata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBasics/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/Person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBasics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +49,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.AllPrimeNumber.executor": "Run",
     "Python.AreaChart.executor": "Run",
     "Python.AreaOfTriangle.executor": "Run",
     "Python.ArithmeticOperations.executor": "Run",
+    "Python.ArmstrongNumber.executor": "Run",
     "Python.BarPlot.executor": "Run",
     "Python.BoxPlot.executor": "Run",
     "Python.Calculator.executor": "Run",
@@ -61,24 +62,32 @@
     "Python.Demo.executor": "Run",
     "Python.DoughnutChart.executor": "Run",
     "Python.Employee.executor": "Run",
+    "Python.Factorial.executor": "Run",
     "Python.GenerateRandomNumber.executor": "Run",
+    "Python.HCM.executor": "Run",
     "Python.Histogram.executor": "Run",
     "Python.Inhe.executor": "Run",
+    "Python.LCM.executor": "Run",
     "Python.LeanerRegression.executor": "Run",
+    "Python.LeapYear.executor": "Run",
     "Python.LinePlotVisualizationDataSet.executor": "Run",
     "Python.LineraReg.executor": "Run",
     "Python.LogicalRegressionDemo.executor": "Run",
     "Python.MultipleLinearRegression.executor": "Run",
+    "Python.MultiplicationTable.executor": "Run",
     "Python.NumberIsOddOrEven.executor": "Run",
     "Python.NumberStatus.executor": "Run",
     "Python.Person.executor": "Run",
+    "Python.PrimeNumber.executor": "Run",
     "Python.QuadraticEquation.executor": "Run",
     "Python.ScatterPlot.executor": "Run",
     "Python.SimpleLinearReg.executor": "Run",
     "Python.SimpleLinearRegressionModel.executor": "Run",
     "Python.StandardDeviation().executor": "Run",
+    "Python.SumOfNaturalNumber.executor": "Run",
     "Python.SupervisedLearningOnCar.executor": "Run",
     "Python.SwapTwoNumbers.executor": "Run",
+    "Python.Tata.executor": "Run",
     "Python.UnitConversion.executor": "Run",
     "Python.ViolinPlot.executor": "Run",
     "Python.main.executor": "Run",

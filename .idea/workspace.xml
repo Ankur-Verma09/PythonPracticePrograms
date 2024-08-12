@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBasics/AllPrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/ArmstrongNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/HCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/LCM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/MultiplicationTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/SumOfNaturalNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/Tata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonBasics/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/Person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonBasics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +87,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo",
+    "last_opened_file_path": "D:/Python/PythonPracticePrograms",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

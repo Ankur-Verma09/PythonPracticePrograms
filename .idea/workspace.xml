@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/StatisticsInML/TTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/country_profile_variables.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/polulation_record.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBasics/statics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/StatisticsInML/ZTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/StatisticsInML/ZTestForProportion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +81,8 @@
     "Python.Tata.executor": "Run",
     "Python.UnitConversion.executor": "Run",
     "Python.ViolinPlot.executor": "Run",
+    "Python.ZTest.executor": "Run",
+    "Python.ZTestForProportion.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mode.executor": "Run",
     "Python.pieChart.executor": "Run",

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="" />
+    <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Housing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/PredictSalary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/RandomForest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/customer_churn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Insurance.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Insurance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/LogicalRegression_banking.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/LogicalRegression_banking.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +69,8 @@
     "Python.LinePlotVisualizationDataSet.executor": "Run",
     "Python.LineraReg.executor": "Run",
     "Python.LogicalRegressionDemo.executor": "Run",
+    "Python.LogicalRegression_banking.executor": "Run",
+    "Python.Model.executor": "Run",
     "Python.MultipleLinearRegression.executor": "Run",
     "Python.MultiplicationTable.executor": "Run",
     "Python.NumberIsOddOrEven.executor": "Run",
@@ -88,7 +100,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python",
+    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -97,6 +109,7 @@
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LogicalRegression" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\SupervisedLearning" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LinearRegression" />

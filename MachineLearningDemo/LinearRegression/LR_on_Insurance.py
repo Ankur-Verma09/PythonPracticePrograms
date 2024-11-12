@@ -21,7 +21,7 @@ print(df.columns.values.tolist())
 # DataAnalysis
 # print(df.isnull().sum())
 print(f'total number of null values in the data:', df.isnull().sum().sum())
-P = (52/1338) * 100 #If number of nll are more then 10% of the data, then we need to fill it else we can drop the rows.
+P = (52/1338) * 100 #If number of null are more then 10% of the data, then we need to fill it else we can drop the rows.
 # df.fillna(df[col]).mean() --> to fill the null data if total count is more then 10%
 # print(P)
 df.dropna(inplace=True)

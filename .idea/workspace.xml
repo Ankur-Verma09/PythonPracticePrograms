@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Housing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/PredictSalary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/housing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/RandomForest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/customer_churn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/heart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/heart_desease_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeTest/RightTriangleStarPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeTest/SquareStarPattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Insurance.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/LinearRegression/LR_on_Insurance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/LogicalRegression_banking.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/LogicalRegression/LogicalRegression_banking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
     "Python.Calculator.executor": "Run",
     "Python.Calendar.executor": "Run",
     "Python.ConfdenceInterval.executor": "Run",
+    "Python.DecisionTree.executor": "Run",
     "Python.Demo.executor": "Run",
     "Python.DoughnutChart.executor": "Run",
     "Python.Employee.executor": "Run",
@@ -66,6 +65,7 @@
     "Python.LCM.executor": "Run",
     "Python.LeanerRegression.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.LeftTriangleStarPattern.executor": "Run",
     "Python.LinePlotVisualizationDataSet.executor": "Run",
     "Python.LineraReg.executor": "Run",
     "Python.LogicalRegressionDemo.executor": "Run",
@@ -78,9 +78,11 @@
     "Python.Person.executor": "Run",
     "Python.PrimeNumber.executor": "Run",
     "Python.QuadraticEquation.executor": "Run",
+    "Python.RightTriangleStarPattern.executor": "Run",
     "Python.ScatterPlot.executor": "Run",
     "Python.SimpleLinearReg.executor": "Run",
     "Python.SimpleLinearRegressionModel.executor": "Run",
+    "Python.SquareStarPattern.executor": "Run",
     "Python.StandardDeviation().executor": "Run",
     "Python.SumOfNaturalNumber.executor": "Run",
     "Python.SupervisedLearningOnCar.executor": "Run",
@@ -100,17 +102,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo",
+    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo/LogicalRegression",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LogicalRegression" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LogicalRegression" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\SupervisedLearning" />
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LogicalRegression" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LinearRegression" />
     </key>

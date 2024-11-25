@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/heart.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/heart_desease_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeTest/RightTriangleStarPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeTest/SquareStarPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/UnsuperwisedLearnong/KMean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/UnsuperwisedLearnong/circket.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeTest/LeftDownwardsTriangleStarPattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeTest/RightDownwardTriangleStarPattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.ABC.executor": "Run",
     "Python.AllPrimeNumber.executor": "Run",
     "Python.AreaChart.executor": "Run",
     "Python.AreaOfTriangle.executor": "Run",
@@ -62,9 +63,12 @@
     "Python.HCM.executor": "Run",
     "Python.Histogram.executor": "Run",
     "Python.Inhe.executor": "Run",
+    "Python.KMean.executor": "Run",
     "Python.LCM.executor": "Run",
     "Python.LeanerRegression.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.LeftDownwardTriangleStarPattern.executor": "Run",
+    "Python.LeftDownwardsTriangleStarPattern.executor": "Run",
     "Python.LeftTriangleStarPattern.executor": "Run",
     "Python.LinePlotVisualizationDataSet.executor": "Run",
     "Python.LineraReg.executor": "Run",
@@ -102,12 +106,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo/LogicalRegression",
+    "last_opened_file_path": "D:/Python/PythonPracticePrograms/MachineLearningDemo/SupervisedLearning",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\SupervisedLearning" />
+      <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\UnsuperwisedLearnong" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo\LogicalRegression" />
       <recent name="D:\Python\PythonPracticePrograms\MachineLearningDemo" />
     </key>

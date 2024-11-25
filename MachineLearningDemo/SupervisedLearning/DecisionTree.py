@@ -79,4 +79,5 @@ final_model = gv.best_estimator_
 ans = final_model.predict(x_test)
 print(accuracy_score(ans, y_test)*100)
 tree.plot_tree(final_model, fontsize=7)
-plt.show()
+# plt.show()
+

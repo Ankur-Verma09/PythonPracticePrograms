@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/UnsuperwisedLearnong/KMean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearningDemo/UnsuperwisedLearnong/circket.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeTest/LeftDownwardsTriangleStarPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeTest/RightDownwardTriangleStarPattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearningDemo/SupervisedLearning/DecisionTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeTest/LeftTriangleStarPattern.py" afterDir="false" />
-    </list>
+    <list default="true" id="d06c9107-d660-4a71-838e-4fa746aceac9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

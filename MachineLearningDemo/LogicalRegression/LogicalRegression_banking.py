@@ -11,7 +11,7 @@ from sklearn.metrics import *
 # problem: Above data set past consist of customer data that has been given by bank. Now bank officials wants to launch a schema
 # based on the past data we have to predict wether a person is gonna be interested in the scheme or not
 # class LogicalRegression_banking:
-df = pd.read_csv("bank-additional-full_final.csv")
+df = pd.read_csv(r"MachineLearningDemo/LogicalRegression/bank-additional-full_final.csv")
     # print(df.describe())
     # print(df.info())
 

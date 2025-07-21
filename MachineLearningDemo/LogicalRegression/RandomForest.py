@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-churn_data=pd.read_csv("PythonPracticePrograms\MachineLearningDemo\LogicalRegression\customer_churn.csv")
+churn_data = pd.read_csv(r"MachineLearningDemo/LogicalRegression/customer_churn.csv")
 # print(churn_data.info())
 # print(churn_data.describe())
 # print(churn_data.describe(include="O"))

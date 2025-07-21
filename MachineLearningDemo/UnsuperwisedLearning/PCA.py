@@ -12,11 +12,11 @@ from sklearn.metrics import accuracy_score
 
 dataset = load_digits()
 # print(dataset)
-dataset.keys()
+# print(dataset.keys())
 df = pd.DataFrame(dataset.data,columns=dataset.feature_names)
 df['Target']=dataset.target
 print('Target is',dataset.target[0]) # pixel values for image prsent at indext 0
-dataset.data[0]
+# print(dataset.data[0])
 dataset.data[0].reshape(8,8)  # reshaping it by 8 *8 =64 pixel so it can form a image
 plt.gray()
 plt.matshow(dataset.data[0].reshape(8,8))
@@ -32,12 +32,13 @@ for index in range(num_image):
 plt.tight_layout()
 plt.show()
 
-df.shape
+print(df.shape)
 x = df.iloc[:,:-1] #deviding the data into dependent variable
 y = dataset.target
 y.shape
 
-#Stand is useful to make components to be in same to calculatethe variance as well, to comapre wither it is important or not
+#Standardization is useful to make components to be in same, to calculate the variance as well, to comapre weither it is important or not
+# Standardization is used to make the data to be in the same scale
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(x)
 print(X_scaled)

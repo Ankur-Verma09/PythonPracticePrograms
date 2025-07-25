@@ -14,7 +14,7 @@ df = pd.read_csv(r'MachineLearningDemo/SupervisedLearning/heart_desease_data.csv
 print(f'shape : ', df.shape)
 print(f'Duplicate values are : ', df.duplicated().sum())
 df.drop_duplicates(inplace=True)
-print(f'Duplicate values are : ', df.duplicated().sum())
+# print(f'Duplicate values are : ', df.duplicated().sum())
 # print(f'Null values are : ', df.isnull().sum())
 # print(f'Info : ', df.info())
 

@@ -60,8 +60,14 @@ parameters_to_try = {
     'min_samples_split':[2,6,8,10,5],
     'min_samples_leaf':[1,4,6,7,9]
 }
+
 # defallt values parameters_to_try
-# Random state = 0, max_depth =8-10
+# criterion: Decide how to split the node tree
+# max_depth: How deep the tree can go
+# Random state = 0, max_depth =8-10: 
+# min_samples_leaf: Mininmum data point required in a left
+# min_samples_split:Min data points needed to split a node
+# https://www.google.com/search?client=firefox-b-d&q=gridsearchcv
 
 gv = GridSearchCV(estimator=model2, param_grid=parameters_to_try , cv = 3)
 # estimator = model on which you want to apply Hyper parameter tuning

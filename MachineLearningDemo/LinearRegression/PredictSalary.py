@@ -13,7 +13,7 @@ from sklearn.metrics import *
 import seaborn as sns
 import plotly.express as px
 
-df =pd.read_csv("data.csv")
+df =pd.read_csv(r"MachineLearningDemo\LinearRegression\data.csv")
 print(df.columns.values.tolist()) #Print column names
 print(f'total number of null values in the data:',df.isnull().sum())
 print(df.shape)
@@ -24,7 +24,7 @@ for col in df.columns:
     if df[col].dtype != 'object':
         plt.boxplot(df[col])
         plt.title(col)
-        plt.show()
+        # plt.show()
 
 Q1 = df.YearsExperience.quantile(0.25)
 Q3 = df.YearsExperience.quantile(0.75)
@@ -60,17 +60,17 @@ x_train, x_test, y_train, y_test = train_test_split(x, y , test_size=0.20, rando
 lr = LinearRegression()
 lr.fit(x_train,y_train)
 
-a = float(input("Year of expirence: "))
-features = np.array([[a]])
-print("Predicted salary :",lr.predict(features))
-
 pred = lr.predict(x_test)
 result = r2_score(y_test, pred)
 print(result*100)
 # sns.regplot(x = pred, y = y_test)
 sns.displot(pred-y_test)
 plt.title("Best fit line for Linear Regression model")
-plt.show()
+# plt.show()
 plt.scatter(x_train, y_train)
 plt.plot(x_train, lr.predict(x_train))
-plt.show()
+# plt.show()
+
+a = float(input("Year of expirence: "))
+features = np.array([[a]])
+print("Predicted salary :", lr.predict(features))

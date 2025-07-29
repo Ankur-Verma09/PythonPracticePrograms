@@ -11,7 +11,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import *
 import seaborn as sns
 
-df = pd.read_csv("New_insurance_data.csv")
+df = pd.read_csv(rs"MachineLearningDemo\LinearRegression\New_insurance_data.csv")
 # df.info()
 # print(df.head())
 # print(df.tail())
